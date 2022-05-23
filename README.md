@@ -23,7 +23,7 @@ Em geral, Google, Youtube e [Unity Learn](https://learn.unity.com/) são os melh
 - O projeto usa a linguagem de programação visual do Unity, o Bolt. Para aprender mais a respeito:
   - Um vídeo com uma visão geral sobre seu funcionamento: https://youtu.be/DtbyC1OBpFg
   - Um tutorial detalhado: https://learn.unity.com/project/bolt-platformer-tutorial?uv=2019.3
-  - Obs: Não é preciso baixar o Bolt. Ele já está instalado no projeto  
+  - Obs: Não é preciso baixar o Bolt. Ele já está instalado no projeto. 
 
 ## FAQ
 
